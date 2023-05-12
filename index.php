@@ -53,7 +53,9 @@ require_once 'config.php';
                     <li><a class="nav-link scrollto o" href="../topup/pubg/pubg.php">PUBG Mobile</a></li>
                     <li><a class="nav-link scrollto" href="../topup/genshinimpact/genshinimpact.php">Genshin
                             Impact</a></li>
+                           
                     <?php if(@$_SESSION['status']){ ?>
+                        <li><a class="nav-link scrollto" href="seller/cekot.php">pesanan</a></li>
                     <li><a class="getstarted scrollto" href="logout.php">Logout</a></li>
                     <?php }else{ ?>
                     <li><a class="getstarted scrollto" href="../topup/login/login.php">Login</a></li>
@@ -117,6 +119,11 @@ require_once 'config.php';
                         </div>
                     </div>
 
+                    
+
+
+
+
                 </div>
             </div>
     </section><!-- End Hero -->
@@ -153,6 +160,8 @@ require_once 'config.php';
                                 <li><i class="bx bx-chevron-right"></i> <a href="../topup/pubg/pubg.php">PUBG
                                         Mobile</a></li>
                                 <li><i class="bx bx-chevron-right"></i> <a
+                                        href="../topup/genshinimpact/genshinimpact.php">Genshin Impact</a></li>
+                                        <li><i class="bx bx-chevron-right"></i> <a
                                         href="../topup/genshinimpact/genshinimpact.php">Genshin Impact</a></li>
                             </ul>
                         </div>
