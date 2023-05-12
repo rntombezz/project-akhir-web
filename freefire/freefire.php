@@ -48,6 +48,7 @@ require_once '../config.php';
           <li><a class="nav-link scrollto active" href="../freefire/freefire.php">Free Fire</a></li>
           <li><a class="nav-link scrollto" href="../pubg/pubg.php">PUBG Mobile</a></li>
           <li><a class="nav-link scrollto" href="../genshinimpact/genshinimpact.php">Genshin Impact</a></li>
+          <li><a class="nav-link scrollto" href="../seller/cekot.php">pesanan</a></li>
           <?php if(@$_SESSION['status']){ ?>
                     <li><a class="getstarted scrollto" href="../logout.php">Logout</a></li>
                     <?php }else{ ?>
@@ -154,6 +155,7 @@ require_once '../config.php';
               <li><i class="bx bx-chevron-right"></i> <a href="../freefire/freefire.php">Free Fire</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="../pubg/pubg.php">PUBG Mobile</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="../genshinimpact/genshinimpact.php">Genshin Impact</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="../seller/cekot.php">Pesanan</a></li>
             </ul>
           </div>
 
