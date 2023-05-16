@@ -12,17 +12,17 @@ include "../config.php";
             $via = $_POST['bayar'];
             $tlp = $_POST['telepon'];
                 if ($_POST['qty'] == '100 Diamonds') {
-                    $harga = 'Rp 10.000';
+                    $harga = ' 10.000';
                 } else if ($_POST['qty'] == '250 Diamonds') {
-                    $harga = 'Rp 25.000';
+                    $harga = ' 25.000';
                 } else if ($_POST['qty'] == '500 Diamonds') {
-                    $harga = 'Rp 50.000';
+                    $harga = ' 50.000';
                 } else if ($_POST['qty'] == '1000 Diamonds') {
-                    $harga = 'Rp 100.000';
+                    $harga = ' 100.000';
                 } else if ($_POST['qty'] == '2000 Diamonds') {
-                    $harga = 'Rp 200.000';
+                    $harga = ' 200.000';
                 } else {
-                    $harga = 'Rp 400.000';
+                    $harga = ' 400.000';
                 };
     
         $kondisi = mysqli_query($kondisi,"INSERT INTO pesanan (email, game, uid, qty, harga, via, tlp, waktu)
