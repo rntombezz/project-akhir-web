@@ -24,7 +24,8 @@ Pengguna bisa melakukan register atau pembuatan akun dengan mengisi email, usern
  A. User
  
  Admin, dapat melihat dan mengatur akses akun yang dimiliki oleh user ataupun seller dan
- ![image](https://github.com/C2-KELOMPOK-7/project-akhir-web/assets/120183022/335dc38d-f3a2-4552-8d28-1588434ebd8e)
+ ![image](https://github.com/C2-KELOMPOK-7/project-akhir-web/assets/120183022/22948608-9a89-4dcf-99f2-2590d6e0b65e)
+ 
  
  B. Komentar
 
