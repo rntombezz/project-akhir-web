@@ -17,4 +17,15 @@ Jika sudah punya akun, silahkan masukkan username dan password, namun jika belum
 Pengguna bisa melakukan register atau pembuatan akun dengan mengisi email, username, dan password.
 ![image](https://github.com/C2-KELOMPOK-7/project-akhir-web/assets/120183022/69686a34-2571-4522-8502-52f28bf57ad0)
 
+◈ Halaman Admin
+
+ login sebagai admin dengan username "admin" dan password "123"
+ A. Admin, dapat melihat dan mengatur akun yang dimiliki oleh user ataupun seller dan
+ ![image](https://github.com/C2-KELOMPOK-7/project-akhir-web/assets/120183022/335dc38d-f3a2-4552-8d28-1588434ebd8e)
+ 
+ Admin dapat melihat komentar yang diberikan oleh user
+
+
+
+
 
