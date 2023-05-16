@@ -20,10 +20,13 @@ Pengguna bisa melakukan register atau pembuatan akun dengan mengisi email, usern
 ◈ Halaman Admin
 
  login sebagai admin dengan username "admin" dan password "123"
- A. Admin, dapat melihat dan mengatur akun yang dimiliki oleh user ataupun seller dan
+ 
+ A. Admin, dapat melihat dan mengatur akses akun yang dimiliki oleh user ataupun seller dan
  ![image](https://github.com/C2-KELOMPOK-7/project-akhir-web/assets/120183022/335dc38d-f3a2-4552-8d28-1588434ebd8e)
  
- Admin dapat melihat komentar yang diberikan oleh user
+ B. Admin dapat melihat komentar yang diberikan oleh user
+ ![image](https://github.com/C2-KELOMPOK-7/project-akhir-web/assets/120183022/c91dd3fb-e58c-4fdc-b730-bfe41a482363)
+
 
 
 
