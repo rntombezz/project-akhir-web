@@ -155,6 +155,7 @@ require_once '../config.php';
               <li><i class="bx bx-chevron-right"></i> <a href="../freefire/freefire.php">Free Fire</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="../pubg/pubg.php">PUBG Mobile</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="../genshinimpact/genshinimpact.php">Genshin Impact</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="../seller/cekot.php">Pesanan</a></li>
             </ul>
           </div>
 
