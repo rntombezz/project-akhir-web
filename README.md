@@ -19,30 +19,56 @@ Pengguna bisa melakukan register atau pembuatan akun dengan mengisi email, usern
 
 ◈ Halaman Admin
 
- login sebagai admin dengan username "admin" dan password "123"
+ login sebagai admin dengan username "admin" dan password "123.
  
  A. User
  
- Admin, dapat melihat dan mengatur akses akun yang dimiliki oleh user ataupun seller dan
+ Admin, dapat melihat dan mengatur akses akun yang dimiliki oleh user ataupun seller .
  ![image](https://github.com/C2-KELOMPOK-7/project-akhir-web/assets/120183022/22948608-9a89-4dcf-99f2-2590d6e0b65e)
  
  
  B. Komentar
 
- Admin, dapat melihat Kolom komentar yang diberikan oleh user
+ Admin, dapat melihat Kolom komentar yang diberikan oleh user.
  ![image](https://github.com/C2-KELOMPOK-7/project-akhir-web/assets/120183022/c91dd3fb-e58c-4fdc-b730-bfe41a482363)
  
  ◈ Halaman Seller
  
-  login sebagai Seller dengan username "seller" dan password "123"
+  login sebagai Seller dengan username "seller" dan password "123".
   
   A. Pesanan
   
-  Seller dapat melihat dan mengatur Halaman pesanan,halaman pesanan ini berasal dari user yang melakukan transaksi Top up diamond pada game 
+  Seller dapat melihat dan mengatur Halaman pesanan,halaman pesanan ini berasal dari user yang melakukan transaksi Top up diamond pada game .
+  ![image](https://github.com/C2-KELOMPOK-7/project-akhir-web/assets/120183022/f5f0a3e8-7db6-4126-a7bc-19124628babc)
+
   
   B. Search dan Sorting
-  Seller juga dapat melakukan search dan sorting pada halaman pesanan contoh disini saya mencari
-  ![image](https://github.com/C2-KELOMPOK-7/project-akhir-web/assets/120183022/1f6c7bfa-2a59-4ae4-9188-7224e4bd0391)
+  
+  Seller dapat melakukan search dan sorting pada halaman pesanan, contoh disini saya mencari kata kunci 'refan'.
+  ![image](https://github.com/C2-KELOMPOK-7/project-akhir-web/assets/120183022/d801e904-f075-4cb4-bef5-995c2e47033b)
+  
+  
+  dan melakukan Ascending berdasarkan Harga.
+  ![image](https://github.com/C2-KELOMPOK-7/project-akhir-web/assets/120183022/f3afd63f-7a8e-4dd1-92b5-ef8f7021d8cd)
+
+  
+  ◈ Halaman User
+  
+  login sebagai User dengan username "User" dan password "123"
+
+
+  Setelah berhasil login, silahkan memilih daftar game yang tersedia di halaman utama.
+  ![image](https://github.com/C2-KELOMPOK-7/project-akhir-web/assets/120183022/8664e5fc-ce65-4603-8126-ccb602567fe4) 
+  
+  
+  Silahkan memasukkan User ID, plih nominal pembelian top up yang diinginkan dan jika sudah selanjutnya memilih metode pembayaran.
+  ![image](https://github.com/C2-KELOMPOK-7/project-akhir-web/assets/120183022/68dfbab1-d731-4490-9811-4a9fc5b7d332)
+  
+  
+  Jika sudah berhasil memesan, User dapat melihat Pesanan dia di halaman Pesanan yang hanya akan menampilkan pesanan nya saja.
+  ![image](https://github.com/C2-KELOMPOK-7/project-akhir-web/assets/120183022/57185dfc-39e8-4c09-9320-ca9f65cc4088)
+
+
 
 
 
