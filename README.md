@@ -1,5 +1,16 @@
 # project-akhir-web
 
+
+Anggota :
+- 2109116107    RINTO
+- 2109116127    MUHAMAD RISKI PERDANA PUTRA
+- 2109116113    MUHAMMAD DWI REFANSYAH
+
+
+USE CASE :
+![pa web drawio](https://github.com/C2-KELOMPOK-7/project-akhir-web/assets/120183022/5524cec8-a5c6-4fc0-aae3-54cf77b136a8)
+
+
 TUTORIAL PENGGUNAAN WEB
 
 ◈ Halaman Beranda
