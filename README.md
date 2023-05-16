@@ -9,7 +9,7 @@ Beranda berisi tampilan game-game yang ada pada Website Top Up Game.
 
 ◈ Halaman Login
 
-Jika sudah punya akun, silahkan masukkan username dan password, namun jika belum mempunyai akun, diharuskan registrasi terlebih dahulu dengan mengisi email, username, dan password. lalu setelah itu dapat melanjutkan proses login.
+Jika sudah punya akun, silahkan masukkan username dan password, namun jika belum mempunyai akun, diharuskan registrasi terlebih dahulu . lalu setelah itu dapat melanjutkan proses login.
 ![image](https://github.com/C2-KELOMPOK-7/project-akhir-web/assets/120183022/11442a1e-8154-4439-9538-b9227bd4d193)
 
 ◈ Halaman Registrasi
