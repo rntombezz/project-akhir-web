@@ -20,7 +20,7 @@ TUTORIAL PENGGUNAAN WEB
 
 ◈ Halaman Beranda
 
-Beranda berisi tampilan game-game yang ada pada Website Top Up Game.
+Beranda berisi tampilan game-game yang ada pada Website TOPUP IGAMES.
 ![Beranda](https://github.com/C2-KELOMPOK-7/project-akhir-web/assets/120183022/a7bf45a3-d844-40e0-b544-f5126c520a39)
 
 ◈ Halaman Login
