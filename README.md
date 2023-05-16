@@ -35,7 +35,12 @@ Pengguna bisa melakukan register atau pembuatan akun dengan mengisi email, usern
  
   login sebagai Seller dengan username "seller" dan password "123"
   
+  A. Pesanan
+  
   Seller dapat melihat dan mengatur Halaman pesanan,halaman pesanan ini berasal dari user yang melakukan transaksi Top up diamond pada game 
+  
+  B. Search dan Sorting
+  Seller juga dapat melakukan search dan sorting pada halaman pesanan contoh disini saya mencari
   ![image](https://github.com/C2-KELOMPOK-7/project-akhir-web/assets/120183022/1f6c7bfa-2a59-4ae4-9188-7224e4bd0391)
 
 
